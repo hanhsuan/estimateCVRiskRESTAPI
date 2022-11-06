@@ -1,0 +1,17 @@
+{        
+  "function": "reach_score_next_cv", 
+  "arguments": {                       
+    "sex": "male",                   
+    "age": 62,                         
+    "smoker": 0,                       
+    "diabetic": 1,                     
+    "bmi": 25,                         
+    "vasc": 1,                         
+    "cv_event": 1,                     
+    "chf": 1,                          
+    "statin": 1,                       
+    "asa": 1,                          
+    "region_EE_or_ME": true,           
+    "region_jap_aust": false           
+  }                                      
+}
